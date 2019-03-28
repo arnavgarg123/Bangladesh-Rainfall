@@ -26,8 +26,8 @@ Similar Plots available in project for all Four algorithm used in comparison.
 
 ## Contributing
 **Step 1**
-- Clone this repo to your local machine using https://github.com/arnavgarg123/Bangladesh-Rainfall.git <br />
+ - Clone this repo to your local machine using https://github.com/arnavgarg123/Bangladesh-Rainfall.git <br />
 **Step 2**
-- HACK AWAY! <br />
+ - HACK AWAY! <br />
 **Step 3**
-- Create a new pull request <br />
+ - Create a new pull request <br />
