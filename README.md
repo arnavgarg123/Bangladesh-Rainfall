@@ -17,9 +17,9 @@ Predicted data -> Blue line <br />
 Similar Plots available in project for all Four algorithm used in comparison.
 
 ## How to use?
-**Clone**
+### Clone
 - Clone this repo to your local machine using https://github.com/arnavgarg123/Bangladesh-Rainfall.git
-**Setup**
+### Setup
 - Make surer you have jupyter notebook installed on your system with python 3 kernel.
 - Using terminal/cmd navigate to the folder containing the files of this repo and run the command `juputer-notebook`.
 - Now open BangladeshRainfall.ipynb file on jupyter notebook.
