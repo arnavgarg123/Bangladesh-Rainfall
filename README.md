@@ -10,9 +10,9 @@ Data-set being used in this project can be found on kaggle or you can use this [
 ## Screen shots
 Actual data -> Red dot, Green line
 Predicted data -> Blue line
-Full year plot
+- Full year plot
 ![alt text](https://github.com/arnavgarg123/Bangladesh-Rainfall/blob/master/Images/FullYearPlot(SVM).png)
-Month Wise plot
+- Month Wise plot
 ![alt text](https://github.com/arnavgarg123/Bangladesh-Rainfall/blob/master/Images/MonthlyPlot(SVM).png)
 Similar Plots available in project for all Four algorithm used in comparison.
 
@@ -20,14 +20,14 @@ Similar Plots available in project for all Four algorithm used in comparison.
 **Clone**
 - Clone this repo to your local machine using https://github.com/arnavgarg123/Bangladesh-Rainfall.git
 **Setup**
--Make surer you have jupyter notebook installed on your system with python 3 kernel.
--Using terminal/cmd navigate to the folder containing the files of this repo and run the command `juputer-notebook`.
--Now open BangladeshRainfall.ipynb file on jupyter notebook.
+- Make surer you have jupyter notebook installed on your system with python 3 kernel.
+- Using terminal/cmd navigate to the folder containing the files of this repo and run the command `juputer-notebook`.
+- Now open BangladeshRainfall.ipynb file on jupyter notebook.
 
 ## Contributing
 **Step 1**
--Clone this repo to your local machine using https://github.com/arnavgarg123/Bangladesh-Rainfall.git
+- Clone this repo to your local machine using https://github.com/arnavgarg123/Bangladesh-Rainfall.git
 **Step 2**
--HACK AWAY!
+- HACK AWAY!
 **Step 3**
--Create a new pull request.
+- Create a new pull request.
