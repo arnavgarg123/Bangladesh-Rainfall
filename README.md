@@ -8,8 +8,8 @@ Project was created to make comparison (of accuracy) between different types of 
 Data-set being used in this project can be found on kaggle or you can use this [link](https://www.kaggle.com/redikod/historical-rainfall-data-in-bangladesh) to go directly to the data-set
 
 ## Screen shots
-Actual data -> Red dot, Green line.
-Predicted data -> Blue line.
+Actual data -> Red dot, Green line <br />
+Predicted data -> Blue line <br />
 - Full year plot
 ![alt text](https://github.com/arnavgarg123/Bangladesh-Rainfall/blob/master/Images/FullYearPlot(SVM).png)
 - Month Wise plot
@@ -26,8 +26,8 @@ Similar Plots available in project for all Four algorithm used in comparison.
 
 ## Contributing
 **Step 1**
-- Clone this repo to your local machine using https://github.com/arnavgarg123/Bangladesh-Rainfall.git.
+- Clone this repo to your local machine using https://github.com/arnavgarg123/Bangladesh-Rainfall.git <br />
 **Step 2**
-- HACK AWAY!.
+- HACK AWAY! <br />
 **Step 3**
-- Create a new pull request.
+- Create a new pull request <br />
