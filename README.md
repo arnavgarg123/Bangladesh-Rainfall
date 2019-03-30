@@ -31,3 +31,8 @@ Similar Plots available in project for all Four algorithm used in comparison.
  - HACK AWAY! <br />
 ### Step 3
  - Create a new pull request <br />
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)<br />
+This project is licensed under the MIT License - see the LICENSE.md file for details
