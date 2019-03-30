@@ -34,5 +34,5 @@ Similar Plots available in project for all Four algorithm used in comparison.
 
 ## License
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)<br />
+[![License](	https://img.shields.io/github/license/:user/:repo.svg)](http://badges.mit-license.org)<br />
 This project is licensed under the MIT License - see the LICENSE.md file for details
